@@ -7,4 +7,6 @@ This app generates FlashCards for learning vocabulary in a foreign language. It 
 - **data.csv** file with vocabulary (with 2 columns i.e. in 1'st column Polish words, in 2'nd column English words
 - **font.ttf** file with a font which you want on your flashcards
 
-Note: Example font.ttf and data.csv are included in the project
+Notes: 
+- Example font.ttf and data.csv are included in the project
+- flash_card.exe is in archive (.rar) with the same name
