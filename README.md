@@ -4,7 +4,7 @@ This app generates FlashCards for learning vocabulary in a foreign language. It 
 
 **To propper work this app needs:**
 - **flash_card.py** or **flash_card.exe** file
-- **data.csv** file with vocabulary (with 2 columns i.e. in 1'st column Polish words, in 2'nd column English words)(**name of this file can be changed in config**)
+- **data.csv** file with vocabulary (with 2 columns i.e. in 1'st column Polish words, in 2'nd column English words)<br>(name of this file can be changed in config)
 - **font.ttf** file with a font which you want on your flashcards
 - **config.ini** file with configuration 
 
